@@ -1,0 +1,3 @@
+kullanıcıdan gerekli bilgiler alınarak sokağa çıkmak şuan
+yasak şu saat te çıkabilirsin gibi mesaj veren ve programdan çıkmak istemediği sürece çalışmaya devam
+eden c++ kodlarını yazınız. Örnek algoritma ve programın çalışması aşağıda verilmiştir.
