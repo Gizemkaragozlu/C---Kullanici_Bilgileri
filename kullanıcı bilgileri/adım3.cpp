@@ -1,5 +1,3 @@
-﻿// programlama-odev3.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
-//
 
 #include <iostream>
 #include<string>
