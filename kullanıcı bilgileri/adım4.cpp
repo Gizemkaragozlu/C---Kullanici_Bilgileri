@@ -1,5 +1,3 @@
-﻿// programlama-odevi4.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
-//
 
 #include <iostream>
 #include<string>
@@ -29,7 +27,7 @@ int main()
 
 
     {
-        while (git == 'e' || git == 'h');
+        while (git == 'e' || git == 'h')
 
 
     }
